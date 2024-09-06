@@ -1,0 +1,5 @@
+com/example/myspigotplugin/commands/LobbyCommand.class
+com/example/myspigotplugin/Main.class
+com/example/myspigotplugin/commands/RanksListCommand.class
+com/example/myspigotplugin/commands/SetLobbyCommand.class
+com/example/myspigotplugin/commands/SetRankCommand.class

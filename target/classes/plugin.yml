@@ -1,0 +1,20 @@
+name: HypeMC
+version: 1.0
+main: com.example.myspigotplugin.Main
+api-version: 1.8
+commands:
+  setlobby:
+    description: Sets the lobby location.
+    usage: /setlobby
+  lobby:
+    description: Teleports to the lobby location.
+    usage: /lobby
+  rankslist:
+    description: Lists available ranks.
+    usage: /rankslist
+  ranklist:
+    description: Shows the second page of ranks.
+    usage: /ranklist 2
+  setrank:
+    description: Sets the player's rank.
+    usage: /setrank <playername> <rank>
