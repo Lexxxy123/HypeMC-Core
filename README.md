@@ -1,0 +1,2 @@
+# HypeMC-Core
+:)
